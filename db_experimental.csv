@@ -1,0 +1,277 @@
+Specimen ID,Reference id,Component Type,Damage State Intensity,Damage State Unit,Damage State Rank
+1,KAT-2006-SEI,Drywall Partitions,0.015,Drift,
+1,KAT-2006-SEI,Drywall Partitions,0.02,Drift,
+1,KAT-2006-SEI,Drywall Partitions,0.04,Drift,
+1,KAT-2006-SEI,Drywall Partitions,0.1,Drift,
+2,KAT-2006-SEI,Drywall Partitions,0.005,Drift,
+2,KAT-2006-SEI,Drywall Partitions,0.01,Drift,
+2,KAT-2006-SEI,Drywall Partitions,0.01,Drift,
+2,KAT-2006-SEI,Drywall Partitions,0.04,Drift,
+2,KAT-2006-SEI,Doors,0.02,Drift,
+3,KAT-2006-SEI,Drywall Partitions,0.04,Drift,
+3,KAT-2006-SEI,Drywall Partitions,0.08,Drift,
+3,KAT-2006-SEI,Drywall Partitions,0.01,Drift,
+3,KAT-2006-SEI,Drywall Partitions,0.015,Drift,
+4,KAT-2006-SEI,Drywall Partitions,0.01,Drift,
+4,KAT-2006-SEI,Drywall Partitions,0.02,Drift,
+4,KAT-2006-SEI,Drywall Partitions,0.04,Drift,
+4,KAT-2006-SEI,Drywall Partitions,0.1,Drift,
+50,WAN-2017-SHA,Elevators,0.025,Drift,1
+50,WAN-2017-SHA,Elevators,0.035,Drift,2
+48,PAN-2016-FUL,Stairs,0.011,Drift,1
+48,PAN-2016-FUL,Stairs,0.014,Drift,3
+48,PAN-2016-FUL,Stairs,0.007,Drift,3
+48,PAN-2016-FUL,Stairs,0.0266,Drift,2
+48,PAN-2016-FUL,Stairs,0.0273,Drift,2
+48,PAN-2016-FUL,Stairs,0.0209,Drift,3
+48,PAN-2016-FUL,Stairs,0.0108,Drift,3
+48,PAN-2016-FUL,Stairs,0.0053,Drift,1
+48,PAN-2016-FUL,Stairs,0.0129,Drift,3
+48,PAN-2016-FUL,Stairs,0.0358,Drift,3
+48,PAN-2016-FUL,Cladding,0.0047,Drift,1
+48,PAN-2016-FUL,Cladding,0.0056,Drift,1
+48,PAN-2016-FUL,Cladding,0.0096,Drift,1
+48,PAN-2016-FUL,Cladding,0.0143,Drift,1
+48,PAN-2016-FUL,Cladding,0.0276,Drift,2
+48,PAN-2016-FUL,Cladding,0.0601,Drift,2
+48,PAN-2016-FUL,Cladding,0.0025,Drift,2
+48,PAN-2016-FUL,Cladding,0.0027,Drift,2
+48,PAN-2016-FUL,Cladding,0.0043,Drift,2
+48,PAN-2016-FUL,Cladding,0.0074,Drift,2
+48,PAN-2016-FUL,Cladding,0.011,Drift,2
+48,PAN-2016-FUL,Cladding,0.0129,Drift,2
+48,PAN-2016-FUL,Cladding,0.011,Drift,2
+48,PAN-2016-FUL,Cladding,0.0129,Drift,2
+48,PAN-2016-FUL,Cladding,0.0043,Drift,1
+48,PAN-2016-FUL,Cladding,0.0074,Drift,1
+48,PAN-2016-FUL,Cladding,0.011,Drift,1
+48,PAN-2016-FUL,Cladding,0.0129,Drift,1
+48,PAN-2016-FUL,Cladding,0.011,Drift,1
+48,PAN-2016-FUL,Cladding,0.0129,Drift,2
+48,PAN-2016-FUL,Ceilings,0.0024,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0028,Drift,2
+48,PAN-2016-FUL,Ceilings,0.0068,Drift,3
+48,PAN-2016-FUL,Ceilings,0.0057,Drift,3
+48,PAN-2016-FUL,Ceilings,0.0031,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0035,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0037,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0071,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0074,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0031,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0032,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0044,Drift,1
+48,PAN-2016-FUL,Ceilings,0.005,Drift,1
+48,PAN-2016-FUL,Ceilings,0.0066,Drift,1
+48,PAN-2016-FUL,Ceilings,0.007,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.003,Drift,1
+48,PAN-2016-FUL,Drywall Partitions,0.0076,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0264,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0546,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0032,Drift,1
+48,PAN-2016-FUL,Drywall Partitions,0.0094,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0277,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.06,Drift,3
+48,PAN-2016-FUL,Drywall Partitions,0.0019,Drift,1
+48,PAN-2016-FUL,Drywall Partitions,0.0067,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0208,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0356,Drift,3
+48,PAN-2016-FUL,Drywall Partitions,0.0016,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0044,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0109,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0129,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0008,Drift,1
+48,PAN-2016-FUL,Drywall Partitions,0.0022,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0055,Drift,2
+48,PAN-2016-FUL,Drywall Partitions,0.0067,Drift,2
+48,PAN-2016-FUL,Doors,0.0116,Drift,1
+48,PAN-2016-FUL,Doors,0.0266,Drift,2
+48,PAN-2016-FUL,Doors,0.0548,Drift,3
+48,PAN-2016-FUL,Doors,0.0116,Drift,1
+48,PAN-2016-FUL,Doors,0.0266,Drift,1
+48,PAN-2016-FUL,Doors,0.0548,Drift,2
+48,PAN-2016-FUL,Doors,0.0116,Drift,1
+48,PAN-2016-FUL,Doors,0.0266,Drift,1
+48,PAN-2016-FUL,Doors,0.0548,Drift,1
+48,PAN-2016-FUL,Doors,0.0116,Drift,1
+48,PAN-2016-FUL,Doors,0.0266,Drift,3
+48,PAN-2016-FUL,Doors,0.0548,Drift,3
+14,RAH-2014-SYS,Drywall Partitions,0.0215,Drift,
+14,RAH-2014-SYS,Drywall Partitions,0.0215,Drift,
+14,RAH-2014-SYS,Ceilings,0.0234,Drift,
+14,RAH-2014-SYS,Ceilings,0.0258,Drift,
+14,RAH-2014-SYS,Ceilings,0.0209,Drift,
+14,RAH-2014-SYS,Ceilings,0.0162,Drift,
+14,RAH-2014-SYS,Fire Sprinklers,0.0215,Drift,
+14,RAH-2014-SYS,Fire Sprinklers,0.0162,Drift,
+14,RAH-2014-SYS,Fire Sprinklers,0.0103,Drift,
+40,RES-2011-PER,Drywall Partitions,0.005,Drift,1
+40,RES-2011-PER,Drywall Partitions,0.003,Drift,1
+40,RES-2011-PER,Drywall Partitions,0.01,Drift,1
+40,RES-2011-PER,Drywall Partitions,0.003,Drift,1
+40,RES-2011-PER,Drywall Partitions,0.0075,Drift,1
+40,RES-2011-PER,Drywall Partitions,0.0075,Drift,1
+40,RES-2011-PER,Drywall Partitions,0.0075,Drift,1
+40,RES-2011-PER,Drywall Partitions,0.015,Drift,2
+40,RES-2011-PER,Drywall Partitions,0.005,Drift,2
+40,RES-2011-PER,Drywall Partitions,0.01,Drift,2
+40,RES-2011-PER,Drywall Partitions,0.0075,Drift,2
+40,RES-2011-PER,Drywall Partitions,0.03,Drift,3
+40,RES-2011-PER,Drywall Partitions,0.015,Drift,3
+40,RES-2011-PER,Drywall Partitions,0.015,Drift,3
+40,RES-2011-PER,Drywall Partitions,0.0075,Drift,3
+40,RES-2011-PER,Drywall Partitions,0.015,Drift,3
+40,RES-2011-PER,Drywall Partitions,0.02,Drift,3
+40,RES-2011-PER,Drywall Partitions,0.015,Drift,3
+12,FIL-2012-FUL,Ceilings,0.0252,Drift,1
+12,FIL-2012-FUL,Ceilings,0.0209,Drift,1
+12,FIL-2012-FUL,Ceilings,0.0152,Drift,2
+12,FIL-2012-FUL,Ceilings,0.0126,Drift,1
+12,FIL-2012-FUL,Ceilings,0.0106,Drift,3
+12,FIL-2012-FUL,Ceilings,0.0149,Drift,2
+12,FIL-2012-FUL,Ceilings,0.0112,Drift,1
+12,FIL-2012-FUL,Ceilings,0.0195,Drift,2
+12,FIL-2012-FUL,Ceilings,0.0187,Drift,1
+12,FIL-2012-FUL,Ceilings,0.0154,Drift,2
+12,FIL-2012-FUL,Ceilings,0.0202,Drift,2
+12,FIL-2012-FUL,Ceilings,0.0199,Drift,2
+12,FIL-2012-FUL,Ceilings,0.0195,Drift,2
+12,FIL-2012-FUL,Ceilings,0.0265,Drift,2
+27,FUR-2013-FUL,Tenant contents,1.2,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,2.1,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,1.1,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,3,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,2,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,1.1,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,1.2,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,2.1,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,6,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,1.1,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,9,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,2.1,Vertical PFA (g),
+27,FUR-2013-FUL,Lighting,1.5,Vertical PFA (g),
+27,FUR-2013-FUL,Lighting,1.1,Vertical PFA (g),
+27,FUR-2013-FUL,Lighting,1.2,Vertical PFA (g),
+27,FUR-2013-FUL,Lighting,2,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,1.2,Vertical PFA (g),
+27,FUR-2013-FUL,Tenant contents,2,Vertical PFA (g),
+44,BAI-2014-SEI,Cladding,0.02,Drift,
+44,BAI-2014-SEI,Cladding,0.02,Drift,
+44,BAI-2014-SEI,Cladding,0.02,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.0275,Drift,
+44,BAI-2014-SEI,Cladding,0.02,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.02,Drift,
+44,BAI-2014-SEI,Cladding,0.02,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.015,Drift,
+44,BAI-2014-SEI,Cladding,0.0193,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.035,Drift,
+44,BAI-2014-SEI,Cladding,0.0275,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.0015,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.002,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.003,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.004,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.025,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.001,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.003,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.0075,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.01,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.0125,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.015,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.02,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.025,Drift,
+47,TAS-2014-DAM,Drywall Partitions,0.02,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.001,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.002,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.003,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.0125,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.02,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.025,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.0075,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.015,Drift,
+47,TAS-2014-DAM,Masonry Infill Walls,0.025,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.015,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.02,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.04,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.06,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.1,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.005,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.01,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.015,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.02,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.04,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.06,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.01,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.015,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.04,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.06,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.08,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.1,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.01,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.015,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.02,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.04,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.06,Drift,
+36,LEE-2007-SEI,Drywall Partitions,0.1,Drift,
+38,HIG-2009-PRE,Stairs,0.0251,Drift,
+38,HIG-2009-PRE,Stairs,0.0252,Drift,
+38,HIG-2009-PRE,Stairs,0.0252,Drift,
+38,HIG-2009-PRE,Stairs,0.0252,Drift,
+15,AST-2015-EXP,Cooling tower,0.01,Drift,
+15,AST-2015-EXP,Cooling tower,0.01,Drift,
+15,AST-2015-EXP,Cooling tower,0.01,Drift,
+15,AST-2015-EXP,Cooling tower,0.01,Drift,
+15,AST-2015-EXP,Cooling tower,0.01,Drift,
+15,AST-2015-EXP,Cooling tower,0.02,Drift,
+15,AST-2015-EXP,Cooling tower,0.03,Drift,
+15,AST-2015-EXP,Cooling tower,0.04,Drift,
+15,AST-2015-EXP,Cooling tower,0.05,Drift,
+15,AST-2015-EXP,Cooling tower,0.08,Drift,
+15,AST-2015-EXP,Cooling tower,0.08,Drift,
+15,AST-2015-EXP,Cooling tower,0.14,Drift,
+15,AST-2015-EXP,Cooling tower,0.15,Drift,
+72,RYA-2015-SEI,Ceilings,0.37879,PFA (g),1
+72,RYA-2015-SEI,Ceilings,0.40422,PFA (g),1
+72,RYA-2015-SEI,Ceilings,0.41543,PFA (g),1
+72,RYA-2015-SEI,Ceilings,0.42072,PFA (g),1
+72,RYA-2015-SEI,Ceilings,0.53115,PFA (g),1
+72,RYA-2015-SEI,Ceilings,0.97327,PFA (g),1
+72,RYA-2015-SEI,Ceilings,1.0584,PFA (g),1
+72,RYA-2015-SEI,Ceilings,0.47742,PFA (g),2
+72,RYA-2015-SEI,Ceilings,0.50288,PFA (g),2
+72,RYA-2015-SEI,Ceilings,0.52303,PFA (g),2
+72,RYA-2015-SEI,Ceilings,0.76987,PFA (g),2
+72,RYA-2015-SEI,Ceilings,0.9305,PFA (g),2
+72,RYA-2015-SEI,Ceilings,1.1314,PFA (g),2
+72,RYA-2015-SEI,Ceilings,1.1886,PFA (g),2
+72,RYA-2015-SEI,Ceilings,0.66709,PFA (g),3
+72,RYA-2015-SEI,Ceilings,0.85012,PFA (g),3
+72,RYA-2015-SEI,Ceilings,0.899,PFA (g),3
+72,RYA-2015-SEI,Ceilings,1.1254,PFA (g),3
+72,RYA-2015-SEI,Ceilings,1.2186,PFA (g),3
+72,RYA-2015-SEI,Fire Sprinklers,0.37879,PFA (g),1
+72,RYA-2015-SEI,Fire Sprinklers,0.40422,PFA (g),1
+72,RYA-2015-SEI,Fire Sprinklers,0.41543,PFA (g),1
+72,RYA-2015-SEI,Fire Sprinklers,0.42072,PFA (g),1
+72,RYA-2015-SEI,Fire Sprinklers,0.53115,PFA (g),1
+72,RYA-2015-SEI,Fire Sprinklers,0.97327,PFA (g),1
+72,RYA-2015-SEI,Fire Sprinklers,1.0584,PFA (g),1
+72,RYA-2015-SEI,Fire Sprinklers,0.66709,PFA (g),3
+72,RYA-2015-SEI,Fire Sprinklers,0.85012,PFA (g),3
+72,RYA-2015-SEI,Fire Sprinklers,0.899,PFA (g),3
+72,RYA-2015-SEI,Fire Sprinklers,1.1254,PFA (g),3
+72,RYA-2015-SEI,Fire Sprinklers,1.2186,PFA (g),3
